@@ -12,481 +12,80 @@ It details all the variables in the new dataset and the calculations used to cre
 
 ## Data
 
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
+Position | Label | Variable | Variable Type | Allowable Values | Comments
+--- | --- | --- | --- | --- | ---
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
+1 | 2 | 3 | 4 | 5 | 6
 
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
 
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
 
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
 
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
-
-Label:
-Variable:
-Position:
-Variable Type:
-Allowable Values:
-Comments:
 
 
 
