@@ -6,9 +6,488 @@ Principal Investigator: Thomas Barrett
 
 It details all the variables in the new dataset and the calculations used to create them, including units and some other information. Additionally, it details the original dataset that was used to create the data.
 
-### Contents
+## Contents
 1. Data: A description of the variables in the new tidy dataset.
-2. Metadata: A description of the original data from which the data was constructed, along with information about the creation
+2. Metadata: A description of the original data from which the data was constructed, along with information about the creation date, process, etc.
+
 ## Data
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+Label:
+Variable:
+Position:
+Variable Type:
+Allowable Values:
+Comments:
+
+
 
 ## Metadata
