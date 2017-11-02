@@ -16,12 +16,12 @@ Position | Label | Variable | Variable Type | Allowable Values | Comments
 --- | --- | --- | --- | --- | ---
 1 | subject | The number of the subject that performed the activity in the given observation. | Integer | 1-30 |
 2 | activity | The activity performed by the subject in the given observation. | Factor | "laying", "sitting", "standing", "walking", "walking_downstairs", "walking_upstairs" | The factor levels are in the order listed to the left.
-3 | t_body_acc_mean_x | Mean of all measurements of X across the given subject/activity pair | 4 | 5 | 6
-4 | t_body_acc_mean_y | Mean of all measurements of X across the given subject/activity pair | 4 | 5 | 6
-5 | t_body_acc_mean_z | Mean of all measurements of X across the given subject/activity pair | 4 | 5 | 6
-6 | t_body_acc_sdev_x | Mean of all measurements of X across the given subject/activity pair | 4 | 5 | 6
-7 | t_body_acc_sdev_y | Mean of all measurements of X across the given subject/activity pair | 4 | 5 | 6
-8 | t_body_acc_sdev_z | Mean of all measurements of X across the given subject/activity pair | 4 | 5 | 6
+3 | t_body_acc_mean_x | Mean of all measurements of tBodyAcc-mean()-X across the given subject/activity pair | 4 | 5 | 6
+4 | t_body_acc_mean_y | Mean of all measurements of tBodyAcc-mean()-Y across the given subject/activity pair | 4 | 5 | 6
+5 | t_body_acc_mean_z | Mean of all measurements of tBodyAcc-mean()-Z across the given subject/activity pair | 4 | 5 | 6
+6 | t_body_acc_sdev_x | Mean of all measurements of tBodyAcc-std()-X across the given subject/activity pair | 4 | 5 | 6
+7 | t_body_acc_sdev_y | Mean of all measurements of tBodyAcc-std()-Y across the given subject/activity pair | 4 | 5 | 6
+8 | t_body_acc_sdev_z | Mean of all measurements of tBodyAcc-std()-Z across the given subject/activity pair | 4 | 5 | 6
 9 | t_grav_acc_mean_x | Mean of all measurements of X across the given subject/activity pair | 4 | 5 | 6
 10 | t_grav_acc_mean_y | Mean of all measurements of X across the given subject/activity pair | 4 | 5 | 6
 11 | t_grav_acc_mean_z | Mean of all measurements of X across the given subject/activity pair | 4 | 5 | 6
