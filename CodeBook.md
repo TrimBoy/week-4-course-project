@@ -15,7 +15,7 @@ It details all the variables in the new dataset and the calculations used to cre
 Position | Label | Variable | Variable Type | Allowable Values | Comments
 --- | --- | --- | --- | --- | ---
 1 | subject | The number of the subject that performed the activity in the given observation. | Integer | 1-30 |
-2 | activity | The activity performed by the subject in the given observation. | Factor | "laying", "sitting", "standing", "walking", "walking_downstairs", "walking_upstairs" | The factor levels are in the order listed to the left.
+2 | activity | The activity performed by the subject in the given observation. | Factor | "laying", "sitting", "standing", "walking", "walking_downstairs", "walking_upstairs" | The factor levels are in the order listed in the allowable values column.
 3 | t_body_acc_mean_x | Mean of all measurements of tBodyAcc-mean()-X across the given subject/activity pair | 4 | 5 | 6
 4 | t_body_acc_mean_y | Mean of all measurements of tBodyAcc-mean()-Y across the given subject/activity pair | 4 | 5 | 6
 5 | t_body_acc_mean_z | Mean of all measurements of tBodyAcc-mean()-Z across the given subject/activity pair | 4 | 5 | 6
