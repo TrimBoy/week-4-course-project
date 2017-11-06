@@ -54,8 +54,8 @@ Position | Label | Variable | Variable Type | Allowable Values | Comments
 38 | t_body_acc_jerk_mag_sdev | Mean of all measurements of tBodyAccJerkMag-std() across the given subject/activity pair | 4 | 5 | 6
 39 | t_body_gyro_mag_mean | Mean of all measurements of tBodyGyroMag-mean() across the given subject/activity pair | 4 | 5 | 6
 40 | t_body_gyro_mag_sdev | Mean of all measurements of tBodyGyroMag-std() across the given subject/activity pair | 4 | 5 | 6
-41 | t_body_gyro_jerk_mag_mean | Mean of all measurements of tBodyGyroJerk Mag-mean() across the given subject/activity pair | 4 | 5 | 6
-42 | t_body_gyro_jerk_mag_sdev | Mean of all measurements of tBodyGyroJerk Mag-std() across the given subject/activity pair | 4 | 5 | 6
+41 | t_body_gyro_jerk_mag_mean | Mean of all measurements of tBodyGyroJerkMag-mean() across the given subject/activity pair | 4 | 5 | 6
+42 | t_body_gyro_jerk_mag_sdev | Mean of all measurements of tBodyGyroJerkMag-std() across the given subject/activity pair | 4 | 5 | 6
 43 | f_body_acc_mean_x | Mean of all measurements of fBodyAcc-mean()-X across the given subject/activity pair | 4 | 5 | 6
 44 | f_body_acc_mean_y | Mean of all measurements of fBodyAcc-mean()-Y across the given subject/activity pair | 4 | 5 | 6
 45 | f_body_acc_mean_z | Mean of all measurements of fBodyAcc-mean()-Z across the given subject/activity pair | 4 | 5 | 6
@@ -76,11 +76,11 @@ Position | Label | Variable | Variable Type | Allowable Values | Comments
 60 | f_body_gyro_sdev_z | Mean of all measurements of fBodyGyro-std()-Z across the given subject/activity pair | 4 | 5 | 6
 61 | f_body_acc_mag_mean | Mean of all measurements of fBodyAccMag-mean() across the given subject/activity pair | 4 | 5 | 6
 62 | f_body_acc_mag_sdev | Mean of all measurements of fBodyAccMag-std() across the given subject/activity pair | 4 | 5 | 6
-63 | f_body_acc_jerk_mag_mean | Mean of all measurements of fBodyBodyAccJerk Mag-mean() across the given subject/activity pair | 4 | 5 | 6
+63 | f_body_acc_jerk_mag_mean | Mean of all measurements of fBodyBodyAccJerkMag-mean() across the given subject/activity pair | 4 | 5 | 6
 64 | f_body_acc_jerk_mag_sdev | Mean of all measurements of fBodyBodyAccJerkMag-std() across the given subject/activity pair | 4 | 5 | 6
 65 | f_body_gyro_mag_mean | Mean of all measurements of fBodyBodyGyroMag-mean() across the given subject/activity pair | 4 | 5 | 6
 66 | f_body_gyro_mag_sdev | Mean of all measurements of fBodyBodyGyroMag-std() across the given subject/activity pair | 4 | 5 | 6
-67 | f_body_gyro_jerk_mag_mean | Mean of all measurements of fBodyBodyGyroJerk Mag-mean() across the given subject/activity pair | 4 | 5 | 6
+67 | f_body_gyro_jerk_mag_mean | Mean of all measurements of fBodyBodyGyroJerkMag-mean() across the given subject/activity pair | 4 | 5 | 6
 68 | f_body_gyro_jerk_mag_sdev | Mean of all measurements of fBodyBodyGyroJerkMag-std() across the given subject/activity pair | 4 | 5 | 6
 
 
