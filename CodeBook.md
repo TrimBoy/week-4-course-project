@@ -8,7 +8,8 @@ It details all the variables in the new dataset and the calculations used to cre
 
 ### Contents
 1. Data: A description of the variables in the new tidy dataset.
-2. Metadata: A description of the original data from which the data was constructed, along with information about the creation date, process, etc.
+2. Metadata: Miscellaneous data about the tidy dataset, including information about the creation date, process, etc.
+3. Original Data: A description of the variables in the original dataset, from which the current data was derived.
 
 ## Data
 
