@@ -86,8 +86,15 @@ Position | Label | Variable | Variable Type | Allowable Values | Comments
 
 ## Metadata
 
+Creation Date: 8 November, 2017
+
+The new tidy dataset was created with an R script which is included in the following GitHub repository, along with a README explaining how to use it: https://github.com/TrimBoy/week-4-course-project.git
+
+
 
 ## Original Data
+
+
 
 From features_info.txt in the original dataset:
 
