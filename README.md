@@ -1,7 +1,15 @@
 # ReadMe
 
-Test text
+Intro
 
-*italics test*
+## List of Included Files
 
-**bold test**
+List
+
+## Using the Script
+
+Instructions
+
+## Acknowledgments
+
+Info
