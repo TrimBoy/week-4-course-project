@@ -90,13 +90,13 @@ Creation Date: 8 November, 2017
 
 The new tidy dataset was created with an R script which is included in the following GitHub repository, along with a README explaining how to use it: https://github.com/TrimBoy/week-4-course-project.git
 
-
-
 ## Original Data
 
+The original dataset, from which the new tidy dataset was derived, consists of a number of measurements taken from the accelerometers of a Samsung Galaxy S Smartphone while it was attached to 30 subjects as they performed a number of activities: (laying, sitting, standing, walking, walking downstairs, walking upstairs). The dataset can be downloaded at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+Precise details about the measurements are given in the file "features_info.txt", which can be found in the UCI dataset at the link above.
 
-From features_info.txt in the original dataset:
+From features_info.txt in the UCI dataset:
 
 >*The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz.* 
 >
