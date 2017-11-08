@@ -1,6 +1,6 @@
-# ReadMe
+# README
 
-Intro
+This is the README 
 
 ## List of Included Files
 
