@@ -47,6 +47,7 @@ This is the codebook for the new tidy dataset. It details all the variables in t
 ## Using the Script
 
 >data <- read.table(file_path, header = TRUE)
+>
 >View(data)
 
 ## Acknowledgments
