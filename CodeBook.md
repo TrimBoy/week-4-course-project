@@ -4,7 +4,7 @@ This is the codebook for Thomas Barrett's submission of the course project for G
 
 Principal Investigator: Thomas Barrett
 
-It **details all the variables** in the new **tidy** dataset and the calculations used to create them, including units and some other information. Additionally, it details the original dataset and the **transformations that were applied** to it.
+It **details all the variables** in the new tidy dataset and the calculations used to create them, including units and some other information. Additionally, it details the original dataset and the **transformations that were applied** to it.
 
 ### Contents
 1. Data: A description of the variables in the new tidy dataset.
