@@ -64,6 +64,11 @@ To use the script, make sure you have your working directory set to a folder con
 "y_test.txt", 
 "y_train.txt"
 
+The original data, as downloaded from the UCI website, will be stored in nested folders, and so it will NOT be sufficient to simply set the working directory to that folder. Make sure that the above files are all stored in the top level of the current working directory.
+
+Before running the script, it may be a good idea to clear the working environment with
+>rm(list = ls())
+
 Then run the script in the file "run_analysis.R"
 
 The tidy data will then be stored in the variable tidy_data. To view the data, use:
