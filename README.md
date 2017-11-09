@@ -7,6 +7,8 @@ This is the repository for Thomas Barrett's submission of the course project for
 >
 >View(data)
 
+If you have renamed the file, you will need to change the code accordingly.
+
 ## List of Included Files
 
 ### README.md
