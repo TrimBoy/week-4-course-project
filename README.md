@@ -42,11 +42,12 @@ For specific details about what the script is doing, here are the comments from 
 
 ### CodeBook.md
 
-Description
+This is the codebook for the new tidy dataset. It details all the variables in the new dataset and the calculations used to create them, including units and some other information. Additionally, it details the original dataset that was used to create the data.
 
 ## Using the Script
 
-Instructions
+>data <- read.table(file_path, header = TRUE)
+>View(data)
 
 ## Acknowledgments
 
