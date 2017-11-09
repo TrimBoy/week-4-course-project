@@ -46,7 +46,7 @@ For specific details about what the script is doing, here are the comments from 
 
 ## Using the Script
 
-To use the script, make sure you have your working directory set to to a folder containing the following files:
+To use the script, make sure you have your working directory set to a folder containing the following files:
 
 "activity_labels.txt", 
 "features.txt", 
