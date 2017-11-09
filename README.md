@@ -57,10 +57,11 @@ To use the script, make sure you have your working directory set to to a folder 
 "y_test.txt", 
 "y_train.txt"
 
+Then run the script in the file "run_analysis.R"
 
->data <- read.table("tidy_data.txt", header = TRUE)
->
->View(data)
+The tidy data will then be stored in the variable tidy_data. To view the data, use:
+> View(tidy_data)
+Note that the V is capitalized in "View."
 
 ## Acknowledgments
 
