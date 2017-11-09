@@ -69,7 +69,7 @@ The original data, as downloaded from the UCI website, will be stored in nested 
 Before running the script, it may be a good idea to clear the working environment with
 >rm(list = ls())
 
-Then run the script in the file "run_analysis.R"
+Next, run the script in the file "run_analysis.R"
 
 The tidy data will then be stored in the variable tidy_data. To view the data, use:
 > View(tidy_data)
