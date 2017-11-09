@@ -3,7 +3,7 @@
 This is the repository for Thomas Barrett's submission of the course project for Getting and Cleaning Data (Johns Hopkins University through Coursera). This document explains how all the files in this repository (https://github.com/TrimBoy/week-4-course-project.git) are connected, and in particular explains how to use the file "run_analysis.R".
 
 **IMPORTANT NOTE:** To read in the tidy dataset that was submitted as a .txt file, use
->data <- read.table(file_path, header = TRUE)
+>data <- read.table("tidy_data.txt", header = TRUE)
 
 >View(data)
 
