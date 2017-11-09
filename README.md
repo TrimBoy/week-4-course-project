@@ -46,9 +46,19 @@ For specific details about what the script is doing, here are the comments from 
 
 ## Using the Script
 
+To use the script, make sure you have your working directory set to to a folder containing the following files:
+
+"activity_labels.txt", 
+"features.txt", 
+"subject_test.txt", 
+"subject_train.txt", 
+"X_test.txt", 
+"Y_test.txt", 
+"y_test.txt", 
+"y_train.txt"
 
 
->data <- read.table(file_path, header = TRUE)
+>data <- read.table("tidy_data.txt", header = TRUE)
 >
 >View(data)
 
