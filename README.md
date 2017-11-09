@@ -10,7 +10,7 @@ This is the README document that you are currently reading.
 
 ### run_analysis.R
 
-This is a script that takes the Human Activity Recognition Using Smartphones Data Set from the UCI Machine Learning Repository and produces a new tidy dataset. The original data are various measurements from the accelerometers of a Samsung Galaxy S smartphone, taken while 30 subjects each performed six movement activities (sitting, standing, walking, etc.). For each subject/activity pair, several measurements were recorded for each measurement type (for instance, there were several measurements 
+This is a script that takes the Human Activity Recognition Using Smartphones Data Set from the UCI Machine Learning Repository and produces a new tidy dataset. The original data are various measurements from the accelerometers of a Samsung Galaxy S smartphone, taken while 30 subjects each performed six movement activities (sitting, standing, walking, etc.). For each subject/activity pair, several measurements were recorded for each measurement type (for instance, for subject 3 performing the walking activity, there were several measurements of the "tBodyAcc-mean()-X" variable, several measurements of the "tBodyAcc-mean()-Y" variable, and so on). The new tidy data set gives, for each subject/activity pair, the mean value of all measurements for each measurement type.
 
 ### CodeBook.md
 
