@@ -4,7 +4,7 @@ This is the repository for Thomas Barrett's submission of the course project for
 
 **IMPORTANT NOTE:** To read in the tidy dataset that was submitted as a .txt file, use
 >data <- read.table("tidy_data.txt", header = TRUE)
-
+>
 >View(data)
 
 ## List of Included Files
