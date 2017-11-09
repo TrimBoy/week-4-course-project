@@ -14,32 +14,31 @@ This is a script that takes the Human Activity Recognition Using Smartphones Dat
 
 For specific details about what the script is doing, here are the comments from the R script:
 
-Load the dplyr library.
-
-Read in the separate parts of the data and give them appropriate names.
-
-Rename the columns in the subject and activity data.
-
-Join the subjects, activities, and measurements for both the training and the test data.
-
-Join the training and test data.
-
-Replace the names of the columns with the features data (starting with the third entry of the vector,
-so as to leave "subject" and "activity" as the names of the first two columns).
-
-Replace activity numbers with activity names according to the activity_labels data.
-
-Make the entries in the activity column lowercase, and convert to a factor.
-
-
-Select only the columns involving mean and standard deviation (and exclude those involving "meanFreq").
-
-Rename the columns with descriptive variable names, using lowercase letters and underscores, for
-consistency and readability.
-
-Group the data by subject and activity.
-
-Use summarize_each to create the tidy data set that gives averages across each subject/activity pair.
+>Load the dplyr library.
+>
+>Read in the separate parts of the data and give them appropriate names.
+>
+>Rename the columns in the subject and activity data.
+>
+>Join the subjects, activities, and measurements for both the training and the test data.
+>
+>Join the training and test data.
+>
+>Replace the names of the columns with the features data (starting with the third entry of the vector,
+>so as to leave "subject" and "activity" as the names of the first two columns).
+>
+>Replace activity numbers with activity names according to the activity_labels data.
+>
+>Make the entries in the activity column lowercase, and convert to a factor.
+>
+>Select only the columns involving mean and standard deviation (and exclude those involving "meanFreq").
+>
+>Rename the columns with descriptive variable names, using lowercase letters and underscores, for
+>consistency and readability.
+>
+>Group the data by subject and activity.
+>
+>Use summarize_each to create the tidy data set that gives averages across each subject/activity pair.
 
 ### CodeBook.md
 
