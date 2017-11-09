@@ -74,7 +74,7 @@ Then run the script in the file "run_analysis.R"
 The tidy data will then be stored in the variable tidy_data. To view the data, use:
 > View(tidy_data)
 
-Note that the V is capitalized in "View."
+Note that the V in "View" is capitalized.
 
 ## Acknowledgments
 
