@@ -8,6 +8,10 @@ This is the repository for Thomas Barrett's submission of the course project for
 
 This is the README document that you are currently reading.
 
+### CodeBook.md
+
+This is the codebook for the new tidy dataset. It details all the variables in the new dataset and the calculations used to create them, including units and some other information. Additionally, it details the original dataset that was used to create the data.
+
 ### run_analysis.R
 
 This is a script that takes the Human Activity Recognition Using Smartphones Data Set from the UCI Machine Learning Repository and produces a new tidy dataset. The original data are various measurements from the accelerometers of a Samsung Galaxy S smartphone, taken while 30 subjects each performed six movement activities (sitting, standing, walking, etc.). For each subject/activity pair, several measurements were recorded for each measurement type (for instance, for subject 3 performing the walking activity, there were several measurements of the "tBodyAcc-mean()-X" variable, several measurements of the "tBodyAcc-mean()-Y" variable, and so on). The new tidy data set gives, for each subject/activity pair, the mean value of all measurements for each measurement type. Measurements not concerning mean or standard deviation were discarded.
@@ -39,10 +43,6 @@ For specific details about what the script is doing, here are the comments from 
 >*Group the data by subject and activity.*
 >
 >*Use summarize_each to create the tidy data set that gives averages across each subject/activity pair.*
-
-### CodeBook.md
-
-This is the codebook for the new tidy dataset. It details all the variables in the new dataset and the calculations used to create them, including units and some other information. Additionally, it details the original dataset that was used to create the data.
 
 ## Using the Script
 
