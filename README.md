@@ -6,11 +6,11 @@ This is the repository for Thomas Barrett's submission of the course project for
 
 ### README.md
 
-Description
+This is the README document that you are currently reading.
 
 ### run_analysis.R
 
-Description
+This is a script that takes the Human Activity Recognition Using Smartphones Data Set from the UCI Machine Learning Repository and produces a new tidy dataset. The original data are various measurements from the accelerometers of a Samsung Galaxy S smartphone, taken while 30 subjects each performed six movement activities (sitting, standing, walking, etc.). For each subject/activity pair, several measurements were recorded for each measurement type (for instance, there were several measurements 
 
 ### CodeBook.md
 
