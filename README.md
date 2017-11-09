@@ -29,16 +29,16 @@ For specific details about what the script is doing, here are the comments from 
 >
 >*Replace activity numbers with activity names according to the activity_labels data.*
 >
->*Make the entries in the activity column lowercase, and convert to a factor.
+>*Make the entries in the activity column lowercase, and convert to a factor.*
 >
->Select only the columns involving mean and standard deviation (and exclude those involving "meanFreq").
+>*Select only the columns involving mean and standard deviation (and exclude those involving "meanFreq").*
 >
->Rename the columns with descriptive variable names, using lowercase letters and underscores, for
->consistency and readability.
+>*Rename the columns with descriptive variable names, using lowercase letters and underscores, for
+>consistency and readability.*
 >
->Group the data by subject and activity.
+>*Group the data by subject and activity.*
 >
->Use summarize_each to create the tidy data set that gives averages across each subject/activity pair.*
+>*Use summarize_each to create the tidy data set that gives averages across each subject/activity pair.*
 
 ### CodeBook.md
 
