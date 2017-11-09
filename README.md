@@ -55,5 +55,6 @@ For specific details about what the script is doing, here are the comments from 
 ## Acknowledgments
 
 Thanks to the UCI Machine Learning Repository for the data.
+
 Thanks to David Hood for the super helpful blog post giving general tips about the assignment (https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/), and thanks to Philippe Alcouffe in the course discussion forum for directing me to it.
 
