@@ -90,6 +90,34 @@ Creation Date: 8 November, 2017
 
 The new tidy dataset was created with an R script which is included in the following GitHub repository, along with a README explaining how to use it: https://github.com/TrimBoy/week-4-course-project.git
 
+For specific details about what the script is doing, here are the comments from the R script:
+
+>*Load the dplyr library.*
+>
+>*Read in the separate parts of the data and give them appropriate names.*
+>
+>*Rename the columns in the subject and activity data.*
+>
+>*Join the subjects, activities, and measurements for both the training and the test data.*
+>
+>*Join the training and test data.*
+>
+>*Replace the names of the columns with the features data (starting with the third entry of the vector,
+>so as to leave "subject" and "activity" as the names of the first two columns).*
+>
+>*Replace activity numbers with activity names according to the activity_labels data.*
+>
+>*Make the entries in the activity column lowercase, and convert to a factor.*
+>
+>*Select only the columns involving mean and standard deviation (and exclude those involving "meanFreq").*
+>
+>*Rename the columns with descriptive variable names, using lowercase letters and underscores, for
+>consistency and readability.*
+>
+>*Group the data by subject and activity.*
+>
+>*Use summarize_each to create the tidy data set that gives averages across each subject/activity pair.*
+
 ## Original Data
 
 The original dataset, from which the new tidy dataset was derived, consists of a number of measurements taken from the accelerometers of a Samsung Galaxy S Smartphone while it was attached to 30 subjects as they performed a number of activities: (laying, sitting, standing, walking, walking downstairs, walking upstairs). The dataset can be downloaded at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
